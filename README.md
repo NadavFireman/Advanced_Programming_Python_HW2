@@ -6,11 +6,11 @@ The assignment focuses on leveraging the NumPy library for efficient data creati
 
 ## Key Skills Demonstrated
 
-* [cite_start]**NumPy Data Manipulation:** Creating, initializing, and analyzing a complex 16x21 matrix representing blood sugar levels[cite: 77].
-* [cite_start]**Statistical and Matrix Operations:** Utilizing NumPy for calculating patient and daily averages [cite: 87, 97][cite_start], finding maximum values [cite: 98, 100][cite_start], counting item occurrences [cite: 103][cite_start], and implementing the **Cumulative Sum** (Accumulation Array)[cite: 105, 107].
-* [cite_start]**Data Visualization (Matplotlib):** Presenting analysis results using multiple chart types[cite: 115]:
-    * [cite_start]**Bar Charts:** Displaying data such as daily average sugar levels and patient average times[cite: 115, 116].
-    * [cite_start]**Pie Chart Analysis:** Creating and customizing a Pie Chart with labels, sizes, and an 'explode' effect[cite: 117, 122].
+* **NumPy Data Manipulation:** Creating, initializing, and analyzing a complex 16x21 matrix representing blood sugar levels.
+* **Statistical and Matrix Operations:** Utilizing NumPy for calculating patient and daily averages, finding maximum values, counting item occurrences, and implementing the **Cumulative Sum** (Accumulation Array).
+* **Data Visualization (Matplotlib):** Presenting analysis results using multiple chart types:
+    * **Bar Charts:** Displaying data such as daily average sugar levels and patient average times.
+    * **Pie Chart Analysis:** Creating and customizing a Pie Chart with labels, sizes, and an 'explode' effect.
 
 ## Repository Content
 
