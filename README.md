@@ -16,6 +16,3 @@ The assignment focuses on leveraging the NumPy library for efficient data creati
 
 * **`Advanced_Programming_HW2.ipynb`**: Full Python solution notebook with code and visualization results.
 * **`Assignment_Instructions_2.pdf`**: Original assignment instructions.
-
-***
-*Course: Advanced Programming (Shenkar College, IE&M)*
